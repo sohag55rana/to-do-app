@@ -8,6 +8,16 @@ Deploy With Vercel, Please Click here
 [Click here to view the app](https://to-do-app-nine-pink.vercel.app/)
 
 ## 🛠️ Tech Stack
-- React
+- React (Hooks, useState)
 - Tailwind CSS
-- Daisy Ui
+- Vercel (Deployment)
+- 
+## ⚙️ Run Locally
+Clone the project and install dependencies:
+
+```bash
+git clone https://github.com/sohag55rana/to-do-app.git
+cd weather-app
+npm install
+npm start
+
